@@ -1,10 +1,10 @@
 /* Site settings */
 body {background-color:#ffffff;margin:0px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;text-rendering:optimizeLegibility;font-feature-settings:'kern', 'liga' 0, 'clig' 0, 'calt' 0;color:#000000;letter-spacing:0em;-webkit-print-color-adjust:exact;}
 a {text-decoration:none;}
-a:link {color:#0C3A5F; cursor:pointer;}
+a:link {color:#FFFFFF; cursor:pointer;}
 a:visited {color:inherit;}
 a:hover {color:#99B7CF;}
-a * {color:#0C3A5F;text-decoration:none;}
+a * {color:#FFFFFF;text-decoration:none;}
 sup {font-size:0.5em; vertical-align: 0.66em;}
 sub {font-size:0.5em; vertical-align: -0.1em;}
 .xr_tl {position: absolute; white-space: pre; unicode-bidi:bidi-override;}
@@ -63,10 +63,10 @@ body {text-align:center;}
 @media screen, handheld {
 .xr_app {position: absolute;}
 .xr_apb {display:block; position:absolute;}
+.xr_c_Contrasting_Text {color:#FFFFFF;}
 .xr_c_Theme_Color_1 {color:#0C3A5F;}
 .xr_c_Page_Background {color:#FFFFFF;}
 .xr_c_Text {color:#2B2B2B;}
-.xr_c_Contrasting_Text {color:#FFFFFF;}
 .xr_c_Light_Text {color:#FFFFFF;}
 .xr_c_Theme_Color_2 {color:#C0A243;}
 .xr_c_Theme_Color_3 {color:#FFFFFF;}
