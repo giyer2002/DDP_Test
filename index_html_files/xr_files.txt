@@ -29,10 +29,6 @@ index_html_files/178.png
 index_html_files/178@2x.png
 index_html_files/179.png
 index_html_files/179@2x.png
-index_html_files/17.png
-index_html_files/17@2x.png
-index_html_files/18.png
-index_html_files/18@2x.png
 index_html_files/93.png
 index_html_files/169.png
 index_html_files/169@2x.png
@@ -50,5 +46,3 @@ index_html_files/xarawdgeneratedhtmlfont2.woff
 index_html_files/xarawdembeddedhtmlfont2.eot
 index_html_files/xarawdgeneratedhtmlfont3.woff
 index_html_files/xarawdembeddedhtmlfont3.eot
-index_html_files/xarawdgeneratedhtmlfont4.woff
-index_html_files/xarawdembeddedhtmlfont4.eot
