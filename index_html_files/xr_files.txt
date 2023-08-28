@@ -40,6 +40,10 @@ index_html_files/175.jpg
 index_html_files/175@2x.jpg
 index_html_files/182.jpg
 index_html_files/182@2x.jpg
+index_html_files/183.png
+index_html_files/183@2x.png
+index_html_files/187.png
+index_html_files/187@2x.png
 index_html_files/xarawdgeneratedhtmlfont1.woff
 index_html_files/xarawdembeddedhtmlfont1.eot
 index_html_files/xarawdgeneratedhtmlfont2.woff
