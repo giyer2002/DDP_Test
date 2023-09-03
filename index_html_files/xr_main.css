@@ -65,8 +65,8 @@ body {text-align:center;}
 .xr_apb {display:block; position:absolute;}
 .xr_c_Contrasting_Text {color:#FFFFFF;}
 .xr_c_Theme_Color_1 {color:#0C3A5F;}
-.xr_c_Page_Background {color:#FFFFFF;}
 .xr_c_Text {color:#2B2B2B;}
+.xr_c_Page_Background {color:#FFFFFF;}
 .xr_c_Light_Text {color:#FFFFFF;}
 .xr_c_Theme_Color_2 {color:#C0A243;}
 .xr_c_Theme_Color_3 {color:#FFFFFF;}
@@ -82,7 +82,7 @@ body {text-align:center;}
 #xr_nb1 li:hover {border-color:#FFFFFF;}
 #xr_nb1 ul {border: solid 0px #000000; background-color:#B2B2B2;}
 #xr_nb1 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb1, .xr_bgc1 {background-color: #ADC7E1;}
+.xr_bgb1, .xr_bgc1 {background-color: #1588FF;}
 #xr_nb5 {font-family:Arial; font-size:11px;}
 #xr_nb5 li:hover > a {background-color:#FFFFFF; color:#FFFFFF;}
 #xr_nb5 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
@@ -102,7 +102,7 @@ body {text-align:center;}
 #xr_nb9 li:hover {border-color:#FFFFFF;}
 #xr_nb9 ul {border: solid 0px #000000; background-color:#B2B2B2;}
 #xr_nb9 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb3, .xr_bgc3 {background-color: #ADC7E1;}
+.xr_bgb3, .xr_bgc3 {background-color: #1588FF;}
 #xr_nb13 {font-family:Arial; font-size:11px;}
 #xr_nb13 li:hover > a {background-color:#FFFFFF; color:#FFFFFF;}
 #xr_nb13 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
@@ -122,7 +122,7 @@ body {text-align:center;}
 #xr_nb17 li:hover {border-color:#FFFFFF;}
 #xr_nb17 ul {border: solid 0px #000000; background-color:#B2B2B2;}
 #xr_nb17 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb5, .xr_bgc5 {background-color: #ADC7E1;}
+.xr_bgb5, .xr_bgc5 {background-color: #1588FF;}
 #xr_nb21 {font-family:Arial; font-size:11px;}
 #xr_nb21 li:hover > a {background-color:#FFFFFF; color:#FFFFFF;}
 #xr_nb21 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
@@ -142,7 +142,7 @@ body {text-align:center;}
 #xr_nb25 li:hover {border-color:#FFFFFF;}
 #xr_nb25 ul {border: solid 0px #000000; background-color:#B2B2B2;}
 #xr_nb25 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb7, .xr_bgc7 {background-color: #ADC7E1;}
+.xr_bgb7, .xr_bgc7 {background-color: #1588FF;}
 #xr_nb29 {font-family:Arial; font-size:11px;}
 #xr_nb29 li:hover > a {background-color:#FFFFFF; color:#FFFFFF;}
 #xr_nb29 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
