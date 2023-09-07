@@ -60,8 +60,6 @@ index_html_files/244.png
 index_html_files/244@2x.png
 index_html_files/245.png
 index_html_files/245@2x.png
-index_html_files/256.png
-index_html_files/260.png
 index_html_files/263.jpg
 index_html_files/263@2x.jpg
 index_html_files/264.jpg
@@ -76,6 +74,8 @@ index_html_files/280.jpg
 index_html_files/280@2x.jpg
 index_html_files/281.jpg
 index_html_files/281@2x.jpg
+index_html_files/282.png
+index_html_files/283.png
 index_html_files/xarawdgeneratedhtmlfont1.woff
 index_html_files/xarawdembeddedhtmlfont1.eot
 index_html_files/xarawdgeneratedhtmlfont2.woff
